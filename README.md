@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Maruf Sarker</h1>
 <h3 align="center">A passionate frontend developer. Self learner 🌟 Dream to be a Full Stack Web Developer. 😎😎 Mern stack lover. 😉</h3>
 
-<div style="display:flex; justify-content:space-between;"><p align="left"> <a href="https://twitter.com/md_marufsarker" target="blank"><img src="https://img.shields.io/twitter/follow/md_marufsarker?logo=twitter&style=for-the-badge" alt="md_marufsarker" /></a> </p>
+<div style="display:flex; justify-content:space-around;"><p align="left"> <a href="https://twitter.com/md_marufsarker" target="blank"><img src="https://img.shields.io/twitter/follow/md_marufsarker?logo=twitter&style=for-the-badge" alt="md_marufsarker" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmarufsarker&label=Profile%20views&color=0e75b6&style=flat" alt="mdmarufsarker" /> </p></div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmarufsarker" alt="mdmarufsarker" /></a> </p>
 
