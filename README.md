@@ -9,6 +9,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [1038 - Snack Problem Solving | Beecrowd | Online Judge | Competitive Programming](https://www.youtube.com/watch?v=YQ0XXPZXLCc)
+- [1016 - Distance Problem Solving | Beecrowd | Online Judge | Competitive Programming](https://www.youtube.com/watch?v=kvEERrQJ4rs)
+- [GitHub Skyline | View your contributions in 3D, VR and IRL](https://www.youtube.com/watch?v=l4pJiGCZ_I0)
+- [1013 The Greatest Problem Solving | Beecrowd | Online Judge | Competitive Programming](https://www.youtube.com/watch?v=gcxZj94kNR4)
+- [How to turn on Facebook notification for a post](https://www.youtube.com/watch?v=lkNEiQQ_mxg)
 <!-- YOUTUBE:END -->
 
 ---
