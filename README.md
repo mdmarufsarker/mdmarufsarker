@@ -6,7 +6,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Total Time: 1 hr 16 mins
+
+JSON                         ███████████████░░░░░░░░░░   60.05 %
+C++                          ██████▓░░░░░░░░░░░░░░░░░░   26.31 %
+Text                         ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
+Other                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
