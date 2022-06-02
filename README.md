@@ -19,11 +19,11 @@ Other                        ▒░░░░░░░░░░░░░░░░
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [1049 - Animal Problem Solving | Beecrowd | Online Judge | Competitive Programming](https://www.youtube.com/watch?v=JmppvyuWNfg)
+- [1 - Print some value  - Golang Problem Solving from w3resources](https://www.youtube.com/watch?v=e46atpDUVBQ)
+- [0 - Introduction - Golang Problem Solving from w3resources](https://www.youtube.com/watch?v=EmRSlQ-ODB0)
 - [1041 - Coordinates of a point Problem Solving | Beecrowd | Online Judge | Competitive Programming](https://www.youtube.com/watch?v=-Jixz73VoNs)
 - [1038 - Snack Problem Solving | Beecrowd | Online Judge | Competitive Programming](https://www.youtube.com/watch?v=YQ0XXPZXLCc)
-- [1016 - Distance Problem Solving | Beecrowd | Online Judge | Competitive Programming](https://www.youtube.com/watch?v=kvEERrQJ4rs)
-- [GitHub Skyline | View your contributions in 3D, VR and IRL](https://www.youtube.com/watch?v=l4pJiGCZ_I0)
-- [1013 The Greatest Problem Solving | Beecrowd | Online Judge | Competitive Programming](https://www.youtube.com/watch?v=gcxZj94kNR4)
 <!-- YOUTUBE:END -->
 
 ---
