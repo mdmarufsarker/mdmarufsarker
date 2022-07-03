@@ -19,11 +19,11 @@ Other                        ▒░░░░░░░░░░░░░░░░
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [2 - Print F and C  - Golang Problem Solving from w3resources](https://www.youtube.com/watch?v=Og6noh_dmaA)
 - [1049 - Animal Problem Solving | Beecrowd | Online Judge | Competitive Programming](https://www.youtube.com/watch?v=JmppvyuWNfg)
 - [1 - Print some value  - Golang Problem Solving from w3resources](https://www.youtube.com/watch?v=e46atpDUVBQ)
 - [0 - Introduction - Golang Problem Solving from w3resources](https://www.youtube.com/watch?v=EmRSlQ-ODB0)
 - [1041 - Coordinates of a point Problem Solving | Beecrowd | Online Judge | Competitive Programming](https://www.youtube.com/watch?v=-Jixz73VoNs)
-- [1038 - Snack Problem Solving | Beecrowd | Online Judge | Competitive Programming](https://www.youtube.com/watch?v=YQ0XXPZXLCc)
 <!-- YOUTUBE:END -->
 
 ---
