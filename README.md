@@ -1,19 +1,12 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmarufsarker&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdmarufsarker&show_icons=true&theme=radical)
+
 ### 🌐 Connect with me ~
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mdmarufsarker) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdmarufsarker21) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/md_maruf_sarker) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdmarufsarker) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/md_maruf_sarker) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/md_marufsarker) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCWigpkRyVFi8F6sZ4SjcDpA)
 [![](https://visitcount.itsvg.in/api?id=mdmarufsarker&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!--START_SECTION:waka-->
-
-```text
-Total Time: 1 hr 16 mins
-
-JSON                         ███████████████░░░░░░░░░░   60.05 %
-C++                          ██████▓░░░░░░░░░░░░░░░░░░   26.31 %
-Text                         ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
-Other                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-```
-
 <!--END_SECTION:waka-->
 
 ### 🎬 Latest YouTube Videos ~
