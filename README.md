@@ -1,5 +1,7 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmarufsarker&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdmarufsarker&show_icons=true&theme=radical)
+<p align="center">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mdmarufsarker&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mdmarufsarker&layout=compact&langs_count=8&theme=algolia"/>
+</p>
 
 ### 🌐 Connect with me ~
 
