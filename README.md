@@ -20,11 +20,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [1020 - Age in Days Problem Solve | Beecrowd | Online Judge | Competitive Programming](https://www.youtube.com/watch?v=zMXVKGGAPkU)
 - [Playing with GitHub Copilot 😂😂](https://www.youtube.com/watch?v=sIGz1A9AwYg)
 - [2 - Print F and C  - Golang Problem Solving from w3resources](https://www.youtube.com/watch?v=Og6noh_dmaA)
 - [1049 - Animal Problem Solving | Beecrowd | Online Judge | Competitive Programming](https://www.youtube.com/watch?v=JmppvyuWNfg)
 - [1 - Print some value  - Golang Problem Solving from w3resources](https://www.youtube.com/watch?v=e46atpDUVBQ)
-- [0 - Introduction - Golang Problem Solving from w3resources](https://www.youtube.com/watch?v=EmRSlQ-ODB0)
 <!-- YOUTUBE:END -->
 
 ---
