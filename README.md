@@ -20,11 +20,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [1043 - Triangle Problem Solve | Beecrowd | Online Judge | Competitive Programming](https://www.youtube.com/watch?v=NuuSMBCv7ts)
+- [Toph - Copycat Problem Solve using C++ Programming Language | Online Judge Problem Solving](https://www.youtube.com/watch?v=Th_8-pAAr34)
 - [Github City - Create a 3D city from your GitHub contributions to cityscape](https://www.youtube.com/watch?v=GMvhfiV9Ffo)
 - [1048   Salary Increase Problem Solve | Beecrowd | Online Judge | Competitive Programming](https://www.youtube.com/watch?v=VT5frFlaigI)
 - [1020 - Age in Days Problem Solve | Beecrowd | Online Judge | Competitive Programming](https://www.youtube.com/watch?v=zMXVKGGAPkU)
-- [Playing with GitHub Copilot 😂😂](https://www.youtube.com/watch?v=sIGz1A9AwYg)
-- [2 - Print F and C  - Golang Problem Solving from w3resources](https://www.youtube.com/watch?v=Og6noh_dmaA)
 <!-- YOUTUBE:END -->
 
 ---
