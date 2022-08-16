@@ -30,6 +30,10 @@
 ### 🎬 Latest  Blogs posts ~
 
 <!-- BLOG-POST-LIST:START -->
+- [Compiled Language vs Interpreted Language](https://dev.to/mdmarufsarker/compiled-language-vs-interpreted-language-2o4c)
+- [How to build and run a C Program](https://dev.to/mdmarufsarker/si-prograamin-er-haatekhddi-3c3)
+- [Introduction to C Programming Language](https://dev.to/mdmarufsarker/si-prograamin-er-haatekhddi-4bdh)
+- [Install Java JDK on Arch Linux](https://dev.to/mdmarufsarker/install-java-jdk-on-arch-linux-3hf4)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💻 Tech Stack ~
