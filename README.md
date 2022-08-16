@@ -27,7 +27,10 @@
 - [1048   Salary Increase Problem Solve | Beecrowd | Online Judge | Competitive Programming](https://www.youtube.com/watch?v=VT5frFlaigI)
 <!-- YOUTUBE:END -->
 
----
+### 🎬 Latest  Blogs posts ~
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### 💻 Tech Stack ~
 
