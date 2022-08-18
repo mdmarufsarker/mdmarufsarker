@@ -20,9 +20,9 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [1043 - Triangle Problem Solve | Beecrowd | Online Judge | Competitive Programming](https://www.youtube.com/watch?v=NuuSMBCv7ts)
 - [GUCC Primary Level Programming Session | Day-1 | C Programming | Competitive Programming](https://www.youtube.com/watch?v=RZLDmyFfDxI)
 - [Toph - Copycat Problem Solve using C++ Programming Language | Online Judge Problem Solving](https://www.youtube.com/watch?v=Th_8-pAAr34)
-- [1043 - Triangle Problem Solve | Beecrowd | Online Judge | Competitive Programming](https://www.youtube.com/watch?v=NuuSMBCv7ts)
 - [Github City - Create a 3D city from your GitHub contributions to cityscape](https://www.youtube.com/watch?v=GMvhfiV9Ffo)
 - [1048   Salary Increase Problem Solve | Beecrowd | Online Judge | Competitive Programming](https://www.youtube.com/watch?v=VT5frFlaigI)
 <!-- YOUTUBE:END -->
