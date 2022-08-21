@@ -75,19 +75,19 @@
 
 ## Education
 
-<img align="right" width="50px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/sgc.png" />
+<img align="right" width="50px" src="https://raw.githubusercontent.com/mdmarufsarker/mdmarufsarker/master/logo/bsc.png" />
 
 - 📖 **&nbsp;Bachelor of Computer Science and Engineering**\
 📆 &nbsp;2022 - 2026\
 📍 **&nbsp;Green University Of Bangladesh** - Rokeya Sharani, Mirpur Dhaka Bangladesh
 
-<img align="right" width="50px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/cms.png" />
+<img align="right" width="50px" src="https://raw.githubusercontent.com/mdmarufsarker/mdmarufsarker/master/logo/hsc.png" />
 
 - 📖 **&nbsp;HSC**\
 📆 2018 - 2021\
 📍 **Higher Secondary School Certificate** - Shantinagar Dhaka, Bangladesh
 
-<img align="right" width="50px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/ihrd.png" />
+<img align="right" width="50px" src="https://raw.githubusercontent.com/mdmarufsarker/mdmarufsarker/master/logo/ssc.jpg" />
 
 - 📖 **&nbsp;SSC**\
 📆 &nbsp;2017 - 2018\
