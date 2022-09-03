@@ -44,7 +44,7 @@
 
 <!-- # Competitive Programming : -->
 <a href="https://app.daily.dev/mdmarufsarker"><img src="https://api.daily.dev/devcards/b6878efd97f14b6a9e21dce17627159f.png?r=82n" width="300" alt="Md. Maruf Sarker's Dev Card"/></a>
-<img width="600" src="https://leetcard.jacoblin.cool/mdmarufsarker?theme=light&font=Karma&ext=contest" />
+<img width="500" src="https://leetcard.jacoblin.cool/mdmarufsarker?theme=light&font=Karma&ext=contest" />
 
 <!-- # 📊GitHub Stats : -->
 
