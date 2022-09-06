@@ -85,10 +85,10 @@
 
 - 📖 **&nbsp;HSC**\
 📆 2018 - 2021\
-📍 **Higher Secondary School Certificate** - Shantinagar Dhaka, Bangladesh
+📍 **Habibullah Bahar University College** - Shantinagar Dhaka, Bangladesh
 
 <img align="right" width="50px" src="https://raw.githubusercontent.com/mdmarufsarker/mdmarufsarker/master/logo/ssc.jpg" />
 
 - 📖 **&nbsp;SSC**\
 📆 &nbsp;2017 - 2018\
-📍 **&nbsp;Secondary School Certificate** - Rampura Dhaka, Bangladesh
+📍 **&nbsp;Rampura Ekramunnessa High School** - Rampura Dhaka, Bangladesh
