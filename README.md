@@ -23,11 +23,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [Reactjs Project Review of Anisul Islam | Frontend Project Review | Reactjs Project](https://www.youtube.com/watch?v=4H_Y-I01bE4)
+- [Break the elements | CodeChef Problem Solving | Starter 58 | C++ Tutorial](https://www.youtube.com/watch?v=wdX5mqEtr5U)
 - [Toph - Add Them Up | Problem Solve using C, C++, Go, Python | Online Judge Problem Solving](https://www.youtube.com/watch?v=CWiiMdRpy2E)
 - [GUCC Primary Level Programming Session | Day-2 | C Programming | Competitive Programming](https://www.youtube.com/watch?v=BesyB73GdTM)
 - [1043 - Triangle Problem Solve | Beecrowd | Online Judge | Competitive Programming](https://www.youtube.com/watch?v=NuuSMBCv7ts)
-- [GUCC Primary Level Programming Session | Day-1 | C Programming | Competitive Programming](https://www.youtube.com/watch?v=RZLDmyFfDxI)
-- [Toph - Copycat Problem Solve using C++ Programming Language | Online Judge Problem Solving](https://www.youtube.com/watch?v=Th_8-pAAr34)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
