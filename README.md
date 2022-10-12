@@ -55,7 +55,7 @@
   "frontend"   : ["Reactjs", "Vuejs", "Svelte"],
   "backend"    : ["Nodejs", "Expressjs", "Django", "Go"],
   "cms"        : ["WordPress"],
-  "dbms"       : ["Postgre SQL", "MySQL", "MongoDB", "sunglasses Array sunglasses"],
+  "dbms"       : ["Postgre SQL", "MySQL", "MongoDB"],
   "dbms-orm"   : ["Mongoose"],
   "languages"  : ["C", "C++", "JavaScript", "TypeScript", "Go", "Java", "Dart"],
   "ui"         : ["Material-ui", "Styled-components", "Tailwind.css", "Bootstrap", "SCSS"]
