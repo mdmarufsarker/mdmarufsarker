@@ -23,11 +23,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [Small Factorial CodeChef Problem Solution | Competitive Programming](https://www.youtube.com/watch?v=rSPDjTAUrYY)
 - [1005 - Average 1 Problem Solution | Beecrowd | Online Judge | Competitive Programming](https://www.youtube.com/watch?v=itpgaypyKT0)
 - [1045 - Triangle Types Problem Solution | Beecrowd | Online Judge | Competitive Programming](https://www.youtube.com/watch?v=ioOM0iX0HsM)
 - [1042 - Simple Sort Problem Solution | Beecrowd | Online Judge | Competitive Programming](https://www.youtube.com/watch?v=NP19Q6UUnjI)
 - [Reactjs Project Review of Anisul Islam | Frontend Project Review | Reactjs Project](https://www.youtube.com/watch?v=4H_Y-I01bE4)
-- [Break the elements | CodeChef Problem Solving | Starter 58 | C++ Tutorial](https://www.youtube.com/watch?v=wdX5mqEtr5U)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
