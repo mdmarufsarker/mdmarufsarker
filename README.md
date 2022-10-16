@@ -23,11 +23,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [Tax in Chefland CodeChef Problem Solution | Competitive Programming](https://www.youtube.com/watch?v=PrlcYk02Bo8)
+- [Valid Triangles CodeChef Problem Solution | Competitive Programming](https://www.youtube.com/watch?v=U8bcnbHxMWE)
+- [Expert Setter CodeChef Problem Solution | Competitive Programming](https://www.youtube.com/watch?v=2x528Zm9MSM)
 - [Small Factorial CodeChef Problem Solution | Competitive Programming](https://www.youtube.com/watch?v=rSPDjTAUrYY)
 - [1005 - Average 1 Problem Solution | Beecrowd | Online Judge | Competitive Programming](https://www.youtube.com/watch?v=itpgaypyKT0)
-- [1045 - Triangle Types Problem Solution | Beecrowd | Online Judge | Competitive Programming](https://www.youtube.com/watch?v=ioOM0iX0HsM)
-- [1042 - Simple Sort Problem Solution | Beecrowd | Online Judge | Competitive Programming](https://www.youtube.com/watch?v=NP19Q6UUnjI)
-- [Reactjs Project Review of Anisul Islam | Frontend Project Review | Reactjs Project](https://www.youtube.com/watch?v=4H_Y-I01bE4)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
