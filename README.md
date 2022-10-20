@@ -23,11 +23,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [1019 - Time Conversion Problem Solution | Beecrowd | Competitive Programming](https://www.youtube.com/watch?v=ZJA0zkPygAY)
+- [Helping Chef CodeChef Problem Solution | Competitive Programming](https://www.youtube.com/watch?v=494PyS88wpM)
 - [Age Limit CodeChef Problem Solution | Competitive Programming](https://www.youtube.com/watch?v=T7zSzh9YKWA)
 - [Tax in Chefland CodeChef Problem Solution | Competitive Programming](https://www.youtube.com/watch?v=PrlcYk02Bo8)
 - [Valid Triangles CodeChef Problem Solution | Competitive Programming](https://www.youtube.com/watch?v=U8bcnbHxMWE)
-- [Expert Setter CodeChef Problem Solution | Competitive Programming](https://www.youtube.com/watch?v=2x528Zm9MSM)
-- [Small Factorial CodeChef Problem Solution | Competitive Programming](https://www.youtube.com/watch?v=rSPDjTAUrYY)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
