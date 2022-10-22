@@ -23,11 +23,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [GUCC Primary Level Programming Session | Day-4, 5 | C Programming | Green University](https://www.youtube.com/watch?v=ntoSfnfCj94)
+- [Burgers CodeChef Problem Solution | Competitive Programming](https://www.youtube.com/watch?v=YDS8XInsCaA)
 - [1019 - Time Conversion Problem Solution | Beecrowd | Competitive Programming](https://www.youtube.com/watch?v=ZJA0zkPygAY)
 - [Helping Chef CodeChef Problem Solution | Competitive Programming](https://www.youtube.com/watch?v=494PyS88wpM)
 - [Age Limit CodeChef Problem Solution | Competitive Programming](https://www.youtube.com/watch?v=T7zSzh9YKWA)
-- [Tax in Chefland CodeChef Problem Solution | Competitive Programming](https://www.youtube.com/watch?v=PrlcYk02Bo8)
-- [Valid Triangles CodeChef Problem Solution | Competitive Programming](https://www.youtube.com/watch?v=U8bcnbHxMWE)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
