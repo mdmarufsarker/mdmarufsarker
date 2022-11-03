@@ -23,11 +23,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [1052 - Month Problem Solution | Beecrowd | Competitive Programming](https://www.youtube.com/watch?v=zWAcHs8sKu8)
+- [Linux A complete installation guide in Bengali for beginners](https://www.youtube.com/watch?v=M04DYCZJAd0)
 - [Second Max of Three Numbers problem Solution | Competitive Programming](https://www.youtube.com/watch?v=eJk4ioBpkMA)
 - [Total Prize Money problem Solution | Competitive Programming](https://www.youtube.com/watch?v=E3bOS2DXPas)
 - [Counting Words problem Solution | Competitive Programming](https://www.youtube.com/watch?v=ifg0lbIK_E0)
-- [Reach the Target problem Solution | Competitive Programming](https://www.youtube.com/watch?v=_MbaUEhW8Gs)
-- [How many unattempted problems Solution | Competitive Programming](https://www.youtube.com/watch?v=rw5lnHHtn84)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
