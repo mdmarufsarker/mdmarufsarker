@@ -74,7 +74,7 @@
 ### Frontend Projects
 
 <details>
-  <summary>📃 &nbsp;Resume</summary>
+  <summary>📃 &nbsp;Educational Background</summary>
 
 ## Education
 
