@@ -26,11 +26,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [CodeChef New Feature - Translate Your Problem Statement into your native language](https://www.youtube.com/watch?v=ti8SiXMu83M)
 - [1070 - Six Odd Numbers Problem Solution | Beecrowd | Competitive Programming](https://www.youtube.com/watch?v=PaxNOy46AXQ)
 - [Binary Battles Problem Solution CodeChef Starter 66](https://www.youtube.com/watch?v=LPt3EUeiVc0)
 - [1050 - DDD Problem Solution | Beecrowd | Competitive Programming](https://www.youtube.com/watch?v=OFhlM76N1MQ)
 - [1052 - Month Problem Solution | Beecrowd | Competitive Programming](https://www.youtube.com/watch?v=zWAcHs8sKu8)
-- [Linux A complete installation guide in Bengali for beginners](https://www.youtube.com/watch?v=M04DYCZJAd0)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
