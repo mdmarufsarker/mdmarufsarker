@@ -26,11 +26,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
-- [CodeChef New Feature - Translate Your Problem Statement into your native language](https://www.youtube.com/watch?v=ti8SiXMu83M)
-- [1070 - Six Odd Numbers Problem Solution | Beecrowd | Competitive Programming](https://www.youtube.com/watch?v=PaxNOy46AXQ)
-- [Binary Battles Problem Solution CodeChef Starter 66](https://www.youtube.com/watch?v=LPt3EUeiVc0)
-- [1050 - DDD Problem Solution | Beecrowd | Competitive Programming](https://www.youtube.com/watch?v=OFhlM76N1MQ)
-- [1052 - Month Problem Solution | Beecrowd | Competitive Programming](https://www.youtube.com/watch?v=zWAcHs8sKu8)
+- [Online Compiler for Programming in C, C++, Python, Java etc](https://www.youtube.com/watch?v=OtxcQPbdV88)
+- [Add Student Account, Join Student Portal, Join Google Classroom | Green University](https://www.youtube.com/watch?v=2ohlgj-wOQk)
+- [Mobile Apps for Programming and Web Design](https://www.youtube.com/watch?v=LPxE8kGRjpk)
+- [How to install Jupyter Notebook, Anaconda, and Spyder on Linux Distribution Ubuntu](https://www.youtube.com/watch?v=DVcANRYAaWE)
+- [Top YouTube channels in Bangladesh for learning programming](https://www.youtube.com/watch?v=SKl6cvQpAZI)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
