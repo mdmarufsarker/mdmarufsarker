@@ -26,11 +26,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
-- [Online Compiler for Programming in C, C++, Python, Java etc](https://www.youtube.com/watch?v=OtxcQPbdV88)
-- [Add Student Account, Join Student Portal, Join Google Classroom | Green University](https://www.youtube.com/watch?v=2ohlgj-wOQk)
-- [Mobile Apps for Programming and Web Design](https://www.youtube.com/watch?v=LPxE8kGRjpk)
-- [How to install Jupyter Notebook, Anaconda, and Spyder on Linux Distribution Ubuntu](https://www.youtube.com/watch?v=DVcANRYAaWE)
-- [Top YouTube channels in Bangladesh for learning programming](https://www.youtube.com/watch?v=SKl6cvQpAZI)
+- [1006 - Average 2 | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=5TM3YddOwWE)
+- [1005 - Average 1 | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=kZZx_WTVirU)
+- [1004 - Simple Product | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=ATUaCSz-ph0)
+- [1003 - Simple Sum | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=LiDQQ0pB6r0)
+- [1001 - Extremely Basic | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=_jupKyLUDdw)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
