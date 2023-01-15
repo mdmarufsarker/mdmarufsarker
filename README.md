@@ -26,11 +26,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [Hand Movement Detection using OpenCV](https://www.youtube.com/watch?v=9vLiBj7-f6s)
 - [Facebook Login Page Design using HTML CSS | Maruf Sarker](https://www.youtube.com/watch?v=8_iPcEEvInw)
 - [Kdenlive install on Arch Linux 2023 | Maruf Sarker](https://www.youtube.com/watch?v=d6SDIJOIhj8)
 - [1006 - Average 2 | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=5TM3YddOwWE)
 - [1005 - Average 1 | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=kZZx_WTVirU)
-- [1004 - Simple Product | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=ATUaCSz-ph0)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
