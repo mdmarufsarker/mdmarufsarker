@@ -65,6 +65,14 @@
 }
 ```
 
+#### Thanks for visiting 🥰
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/mdmarufsarker/count.svg"> 
+  
+  ![](https://count.getloli.com/get/@mdmarufsarker.github.readme)
+</p>
+
 <h1 align="center">😎😍 Projects 🥰🤗</h1>
 
 ### Nodejs-Expressjs Projects
@@ -95,3 +103,4 @@
 - 📖 **&nbsp;SSC**\
 📆 &nbsp;2017 - 2018\
 📍 **&nbsp;Rampura Ekramunnessa High School** - Rampura Dhaka, Bangladesh
+
