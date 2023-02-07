@@ -26,11 +26,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [1016 - Distance | Beecrowd Problem Solution Tutorial | Md Maruf Sarker](https://www.youtube.com/watch?v=DhFZfN0CV3c)
+- [1015 - Distance Between Two Points | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=miget56Tv7k)
+- [1014 - Consumption | Beecrowd Problem Solution Tutorial | Maruf Sarker](https://www.youtube.com/watch?v=4lifhdh98cM)
 - [1013 - The Greatest | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=6SScIKUH_pU)
 - [1012 - Area | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=XEFC8u1tktY)
-- [1007 - Difference | Beecrowd Problem Solution Tutorial | Maruf Sarker](https://www.youtube.com/watch?v=NYRdgw-heJI)
-- [Hand Movement Detection using OpenCV](https://www.youtube.com/watch?v=9vLiBj7-f6s)
-- [Facebook Login Page Design using HTML CSS | Maruf Sarker](https://www.youtube.com/watch?v=8_iPcEEvInw)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
