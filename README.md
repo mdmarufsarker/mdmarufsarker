@@ -64,11 +64,7 @@
   "ui"         : ["Material-ui", "Styled-components", "Tailwind.css", "Bootstrap", "SCSS"]
 }
 ```
-
-#### Thanks for visiting 🥰
-
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/mdmarufsarker/count.svg"> 
   
   ![](https://count.getloli.com/get/@mdmarufsarker.github.readme)
 </p>
