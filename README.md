@@ -29,11 +29,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [1041 - Coordinates of a Point | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=IQ5gV-OWsQ8)
 - [1099 - Sum of Consecutive Odd Numbers II | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=ni2p2jP2iyM)
 - [1038 - Snack | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=GY55iWnf6fE)
 - [1020 - Age in Days | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=sVOObL7ekwo)
 - [Digital Logic Design, Engineering Drawing, Algorithm | Lab Report, Project with Proposal and Report](https://www.youtube.com/watch?v=7T8zlpddlzM)
-- [1019 - Time Conversion | Beecrowd Problem Solution Tutorial | Maruf Sarker](https://www.youtube.com/watch?v=ydezSDN6D-k)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
