@@ -29,11 +29,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [1043 - Triangle | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=wlrGvHpsmgw)
 - [1042 - Simple Sort | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=o7m3mEEotdU)
 - [1041 - Coordinates of a Point | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=IQ5gV-OWsQ8)
 - [1099 - Sum of Consecutive Odd Numbers II | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=ni2p2jP2iyM)
 - [1038 - Snack | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=GY55iWnf6fE)
-- [1020 - Age in Days | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=sVOObL7ekwo)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
