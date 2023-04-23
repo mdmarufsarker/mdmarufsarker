@@ -52,19 +52,21 @@
 <a href="https://app.daily.dev/mdmarufsarker"><img src="https://api.daily.dev/devcards/b6878efd97f14b6a9e21dce17627159f.png?r=82n" width="300" alt="Md. Maruf Sarker's Dev Card"/></a>
 <img width="500" src="https://leetcard.jacoblin.cool/mdmarufsarker?theme=light&font=Karma&ext=contest" />
 
-<!-- # 📊GitHub Stats : -->
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mdmarufsarker&bg_color=040024&color=ffffff&line=0eddd9&point=1b0dde&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Graphs -->
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=mdmarufsarker&theme=react-dark&hide_border=true&area=true)
 
 ```
 {
-  "frontend"   : ["Reactjs", "Vuejs", "Svelte"],
-  "backend"    : ["Nodejs", "Expressjs", "Django", "Go"],
+  "background" : ["competitive programmer", "content creator"]
+  "common"     : ["html", "css"],
+  "frontend"   : ["Reactjs"],
+  "backend"    : ["Nodejs", "Expressjs"],
   "cms"        : ["WordPress"],
-  "dbms"       : ["Postgre SQL", "MySQL", "MongoDB"],
+  "dbms"       : ["MySQL", "MongoDB"],
   "dbms-orm"   : ["Mongoose"],
   "languages"  : ["C", "C++", "JavaScript", "TypeScript", "Go", "Java", "Dart"],
-  "ui"         : ["Material-ui", "Styled-components", "Tailwind.css", "Bootstrap", "SCSS"]
+  "ui"         : ["Styled-components", "Tailwind.css", "Bootstrap", "SCSS"],
+  "design"     : ["Canva"]
 }
 ```
 <p align="center"> 
