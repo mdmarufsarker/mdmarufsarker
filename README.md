@@ -29,11 +29,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [Ministry Of Education Website Clone Using HTML and CSS](https://www.youtube.com/watch?v=RCDUhSV6cVo)
 - [Profile Card Design Using HTML and CSS](https://www.youtube.com/watch?v=KxztvEuNM20)
 - [Login Form Design Using HTML and CSS](https://www.youtube.com/watch?v=XMf8UE4Esx4)
 - [1043 - Triangle | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=wlrGvHpsmgw)
 - [1042 - Simple Sort | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=o7m3mEEotdU)
-- [1041 - Coordinates of a Point | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=IQ5gV-OWsQ8)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
