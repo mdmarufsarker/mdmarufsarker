@@ -29,11 +29,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [1045 - Triangle Types | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=oBPk5SXk7s8)
+- [1035 - Selection Test 1 | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=7dOhv15Z1lQ)
 - [Ministry Of Education Website Clone Using HTML and CSS](https://www.youtube.com/watch?v=RCDUhSV6cVo)
 - [Profile Card Design Using HTML and CSS](https://www.youtube.com/watch?v=KxztvEuNM20)
 - [Login Form Design Using HTML and CSS](https://www.youtube.com/watch?v=XMf8UE4Esx4)
-- [1043 - Triangle | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=wlrGvHpsmgw)
-- [1042 - Simple Sort | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=o7m3mEEotdU)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
