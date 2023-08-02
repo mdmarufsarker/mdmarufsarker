@@ -29,11 +29,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [1116 - Dividing X by Y | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=5vESWuW9RP4)
+- [1072 - Interval 2 | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=dDP3vbwB7y4)
 - [1045 - Triangle Types | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=oBPk5SXk7s8)
 - [1035 - Selection Test 1 | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=7dOhv15Z1lQ)
 - [Ministry Of Education Website Clone Using HTML and CSS](https://www.youtube.com/watch?v=RCDUhSV6cVo)
-- [Profile Card Design Using HTML and CSS](https://www.youtube.com/watch?v=KxztvEuNM20)
-- [Login Form Design Using HTML and CSS](https://www.youtube.com/watch?v=XMf8UE4Esx4)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
