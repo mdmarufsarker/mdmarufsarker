@@ -29,11 +29,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [B - Basic Data Types | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=tOzqdO7e4R4)
+- [A - Say Hello With C++ | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=tOWch7C3aYo)
+- [Course Introduction | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=UOtWSpsONOc)
 - [1096 - Sequence IJ 2 | Beecrowd Problem Solution Tutorial | Maruf Sarker](https://www.youtube.com/watch?v=PaFhHFGw04A)
 - [1095 - Sequence IJ 1 | Beecrowd Problem Solution Tutorial | Maruf Sarker](https://www.youtube.com/watch?v=vh2qPSTV2UQ)
-- [1097 - Sequence IJ 3 | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=5Mej46bWAKk)
-- [1116 - Dividing X by Y | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=5vESWuW9RP4)
-- [1072 - Interval 2 | Beecrowd Problem Solution Tutorial](https://www.youtube.com/watch?v=dDP3vbwB7y4)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
