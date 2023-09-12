@@ -29,11 +29,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [E - Area Of A Circle | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=tqcOibDRluw)
+- [D - Difference | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=I_XuOVNmh4g)
+- [C - Simple Calculator | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=gBAbLTFQtj4)
 - [B - Basic Data Types | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=tOzqdO7e4R4)
 - [A - Say Hello With C++ | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=tOWch7C3aYo)
-- [Course Introduction | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=UOtWSpsONOc)
-- [1096 - Sequence IJ 2 | Beecrowd Problem Solution Tutorial | Maruf Sarker](https://www.youtube.com/watch?v=PaFhHFGw04A)
-- [1095 - Sequence IJ 1 | Beecrowd Problem Solution Tutorial | Maruf Sarker](https://www.youtube.com/watch?v=vh2qPSTV2UQ)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
