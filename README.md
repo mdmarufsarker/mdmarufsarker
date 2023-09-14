@@ -29,8 +29,8 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
-- [C - Simple Calculator | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=gBAbLTFQtj4)
 - [E - Area Of A Circle | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=tqcOibDRluw)
+- [C - Simple Calculator | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=gBAbLTFQtj4)
 - [D - Difference | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=I_XuOVNmh4g)
 - [B - Basic Data Types | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=tOzqdO7e4R4)
 - [A - Say Hello With C++ | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=tOWch7C3aYo)
