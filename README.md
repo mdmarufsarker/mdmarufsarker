@@ -29,11 +29,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
-- [F - Digits Summation | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=b5yT1I26jq8)
-- [H - Two numbers | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=YIDOxWbsOcI)
 - [G - Summation from 1 to N | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=rDPpx2VKQIw)
-- [E - Area Of A Circle | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=tqcOibDRluw)
-- [C - Simple Calculator | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=gBAbLTFQtj4)
+- [K - Max and Min | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=lIMGMloMniw)
+- [J - Multiples | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=Lh4e8dR_m94)
+- [I - Welcome for you with Conditions | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=nBlLOhLrJjE)
+- [F - Digits Summation | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=b5yT1I26jq8)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
