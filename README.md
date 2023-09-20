@@ -29,11 +29,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [K - Max and Min | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=lIMGMloMniw)
 - [J - Multiples | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=Lh4e8dR_m94)
 - [I - Welcome for you with Conditions | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=nBlLOhLrJjE)
 - [H - Two numbers | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=YIDOxWbsOcI)
 - [G - Summation from 1 to N | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=rDPpx2VKQIw)
-- [K - Max and Min | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=lIMGMloMniw)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
