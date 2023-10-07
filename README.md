@@ -29,11 +29,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [O - Calculator | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=tVp2OcaVc2c)
 - [Sublime Text Editor Setup For Competitive Programmers](https://www.youtube.com/watch?v=mb8nmCD6mIk)
 - [M - Capital or Small or Digit  | Codeforces Problem Solution Tutorial| Problem Solution Tutorial](https://www.youtube.com/watch?v=P0MLy37TsoQ)
 - [L - The Brothers | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=AHdplV96lEQ)
 - [K - Max and Min | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=lIMGMloMniw)
-- [J - Multiples | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=Lh4e8dR_m94)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
