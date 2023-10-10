@@ -29,11 +29,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [Q. Coordinates of a Point | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=wlyYW6DYCMA)
+- [P. First digit ! | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=zOMjbFBwtik)
+- [N - Char | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=QFGtUL2pAJs)
 - [O - Calculator | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=tVp2OcaVc2c)
 - [Sublime Text Editor Setup For Competitive Programmers](https://www.youtube.com/watch?v=mb8nmCD6mIk)
-- [M - Capital or Small or Digit  | Codeforces Problem Solution Tutorial| Problem Solution Tutorial](https://www.youtube.com/watch?v=P0MLy37TsoQ)
-- [L - The Brothers | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=AHdplV96lEQ)
-- [K - Max and Min | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=lIMGMloMniw)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
