@@ -29,8 +29,8 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
-- [Q. Coordinates of a Point | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=wlyYW6DYCMA)
 - [P. First digit ! | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=zOMjbFBwtik)
+- [Q. Coordinates of a Point | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=wlyYW6DYCMA)
 - [N - Char | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=QFGtUL2pAJs)
 - [O - Calculator | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=tVp2OcaVc2c)
 - [Sublime Text Editor Setup For Competitive Programmers](https://www.youtube.com/watch?v=mb8nmCD6mIk)
