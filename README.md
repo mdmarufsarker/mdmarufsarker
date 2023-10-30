@@ -29,11 +29,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
-- [Q. Coordinates of a Point | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=wlyYW6DYCMA)
-- [P. First digit ! | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=zOMjbFBwtik)
-- [N - Char | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=QFGtUL2pAJs)
-- [O - Calculator | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=tVp2OcaVc2c)
-- [Sublime Text Editor Setup For Competitive Programmers](https://www.youtube.com/watch?v=mb8nmCD6mIk)
+- [W. Mathematical Expression | Problem Solution Tutorial](https://www.youtube.com/watch?v=4NkafMq-BvA)
+- [V. Comparison | Problem Solution Tutorial](https://www.youtube.com/watch?v=afcNqjd1h6o)
+- [U. Float or int | Problem Solution Tutorial](https://www.youtube.com/watch?v=hQfUyTrh0Q8)
+- [T. Sort Numbers | Problem Solution Tutorial](https://www.youtube.com/watch?v=QSXCb5fuMBY)
+- [R. Age in Days | Problem Solution Tutorial](https://www.youtube.com/watch?v=xz86RAHD8m4)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
