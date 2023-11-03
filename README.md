@@ -29,11 +29,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [V. Comparison | Problem Solution Tutorial](https://www.youtube.com/watch?v=afcNqjd1h6o)
 - [U. Float or int | Problem Solution Tutorial](https://www.youtube.com/watch?v=hQfUyTrh0Q8)
 - [Addition and Subtraction using Assembly Language](https://www.youtube.com/watch?v=be6XFnaE0PY)
 - [Print A String Using Assembly Language](https://www.youtube.com/watch?v=uDRzmeTQO84)
 - [Variable and Sum of 2 Number | Assembly Language](https://www.youtube.com/watch?v=QBQBAel7uF8)
-- [EMU 8086 Emulator Install | Take user input | Print Output | Assembly Language](https://www.youtube.com/watch?v=pz3PpnjO184)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
