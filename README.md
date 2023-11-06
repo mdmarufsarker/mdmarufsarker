@@ -29,11 +29,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [W. Mathematical Expression | Problem Solution Tutorial](https://www.youtube.com/watch?v=4NkafMq-BvA)
 - [Print A String Using Assembly Language](https://www.youtube.com/watch?v=uDRzmeTQO84)
 - [Variable and Sum of 2 Number | Assembly Language](https://www.youtube.com/watch?v=QBQBAel7uF8)
 - [V. Comparison | Problem Solution Tutorial](https://www.youtube.com/watch?v=afcNqjd1h6o)
 - [U. Float or int | Problem Solution Tutorial](https://www.youtube.com/watch?v=hQfUyTrh0Q8)
-- [Addition and Subtraction using Assembly Language](https://www.youtube.com/watch?v=be6XFnaE0PY)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
