@@ -70,17 +70,8 @@
 }
 ```
 <p align="center"> 
-  
   ![](https://count.getloli.com/get/@mdmarufsarker.github.readme)
 </p>
-
-<h1 align="center">😎😍 Projects 🥰🤗</h1>
-
-### Nodejs-Expressjs Projects
-
-### Backend Projects
-
-### Frontend Projects
 
 <details>
   <summary>📃 &nbsp;Educational Background</summary>
