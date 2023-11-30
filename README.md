@@ -29,11 +29,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [A. Winter Sale | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=9h2cPujKNeE)
+- [C. Next Alphabet | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=bzamv8bhuoc)
+- [B. Memo and Momo | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=zk6TNAi6NYw)
 - [D. Ali Baba and Puzzles | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=jwVDoA7M-O4)
 - [F. Adding Bits | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=R0KGON4pAjY)
-- [Addition and Subtraction using Assembly Language](https://www.youtube.com/watch?v=be6XFnaE0PY)
-- [W. Mathematical Expression | Problem Solution Tutorial](https://www.youtube.com/watch?v=4NkafMq-BvA)
-- [Print A String Using Assembly Language](https://www.youtube.com/watch?v=uDRzmeTQO84)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
