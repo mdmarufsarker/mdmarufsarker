@@ -53,20 +53,21 @@
 <img width="500" src="https://leetcard.jacoblin.cool/mdmarufsarker?theme=light&font=Karma&ext=contest" />
 
 <!-- Graphs -->
+
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=mdmarufsarker&theme=react-dark&hide_border=true&area=true)
 
 ```
 {
-  "background" : ["competitive programmer", "content creator"]
-  "common"     : ["html", "css"],
-  "frontend"   : ["Reactjs"],
+  "background" : ["competitive programmer", "content creator", "frontend web developer"]
+  "frontend"   : ["Reactjs", "nextjs"],
   "backend"    : ["Nodejs", "Expressjs"],
   "cms"        : ["WordPress"],
-  "dbms"       : ["MySQL", "MongoDB"],
-  "dbms-orm"   : ["Mongoose"],
-  "languages"  : ["C", "C++", "JavaScript", "TypeScript", "Go", "Java", "Dart"],
-  "ui"         : ["Styled-components", "Tailwind.css", "Bootstrap", "SCSS"],
-  "design"     : ["Canva"]
+  "dbms"       : ["MySQL", "MongoDB", "sqlite3", "postgresql"],
+  "dbms-orm"   : ["Mongoose", "prisma"],
+  "languages"  : ["C", "C++", "Python", "JavaScript", "TypeScript", "Go", "Java", "Dart"],
+  "ui"         : ["Styled-components", "Tailwind.css", "Bootstrap", "SCSS", "mui"],
+  "design"     : ["Canva"],
+  "editor"     : ["vscode", "kdenlive", "sublime text"]
 }
 ```
 <p align="center"> 
