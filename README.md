@@ -29,11 +29,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [Practice Problem 1 using Assembly Language | Maruf Sarker](https://www.youtube.com/watch?v=51AzGprb0AE)
 - [A. Winter Sale | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=9h2cPujKNeE)
 - [C. Next Alphabet | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=bzamv8bhuoc)
 - [B. Memo and Momo | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=zk6TNAi6NYw)
 - [D. Ali Baba and Puzzles | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=jwVDoA7M-O4)
-- [F. Adding Bits | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=R0KGON4pAjY)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
