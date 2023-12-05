@@ -29,11 +29,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [D. Ali Baba and Puzzles | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=jwVDoA7M-O4)
 - [C. Next Alphabet | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=bzamv8bhuoc)
 - [9 - Largest Number Between Three Numbers | Assembly Language Bangla Tutorial](https://www.youtube.com/watch?v=d2a0xcX8fxA)
 - [8 - Largest Number Between Two Numbers | Assembly Language Bangla Tutorial](https://www.youtube.com/watch?v=QB-u4k9QejQ)
 - [7 - Smallest Number Between Three Numbers | Assembly Language Bangla Tutorial](https://www.youtube.com/watch?v=Xr7Dug5K6yo)
-- [6 - Smallest Number Between Two Numbers | Assembly Language Bangla Tutorial](https://www.youtube.com/watch?v=iu9ljtJkc_4)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
