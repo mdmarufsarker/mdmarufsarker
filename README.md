@@ -33,7 +33,7 @@
 - [9 - Largest Number Between Three Numbers | Assembly Language Bangla Tutorial](https://www.youtube.com/watch?v=d2a0xcX8fxA)
 - [8 - Largest Number Between Two Numbers | Assembly Language Bangla Tutorial](https://www.youtube.com/watch?v=QB-u4k9QejQ)
 - [7 - Smallest Number Between Three Numbers | Assembly Language Bangla Tutorial](https://www.youtube.com/watch?v=Xr7Dug5K6yo)
-- [F. Adding Bits | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=R0KGON4pAjY)
+- [D. Fixed Password | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=AibfFkJeV7U)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
