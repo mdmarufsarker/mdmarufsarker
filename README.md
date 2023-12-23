@@ -29,11 +29,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [C. Even Odd Positive and Negative | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=6Kjp-MxRyNM)
 - [B. Even Numbers | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=Efpm-FjNknQ)
 - [A. 1 to N | Codeforces Problem Solution Tutorial](https://www.youtube.com/watch?v=wiB6PEMIRqk)
 - [9 - Largest Number Between Three Numbers | Assembly Language Bangla Tutorial](https://www.youtube.com/watch?v=d2a0xcX8fxA)
 - [8 - Largest Number Between Two Numbers | Assembly Language Bangla Tutorial](https://www.youtube.com/watch?v=QB-u4k9QejQ)
-- [7 - Smallest Number Between Three Numbers | Assembly Language Bangla Tutorial](https://www.youtube.com/watch?v=Xr7Dug5K6yo)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
