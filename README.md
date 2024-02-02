@@ -35,11 +35,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
-- [E. Max | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=ldeasBABXDU)
+- [J. Primes from 1 to N | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=FGQnMTOfWCI)
+- [H. One Prime | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=1yPnKTHiuiY)
+- [G. Factorial | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=oqhiPWVj_Tw)
 - [F. Multiplication Table | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=fAS8pd_A6FQ)
-- [D. Fixed Password | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=AibfFkJeV7U)
-- [C. Even Odd Positive and Negative | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=6Kjp-MxRyNM)
-- [B. Even Numbers | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=Efpm-FjNknQ)
+- [E. Max | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=ldeasBABXDU)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
