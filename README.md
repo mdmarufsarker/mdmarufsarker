@@ -35,11 +35,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [K. Divisors | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=Y63sqYKFlxI)
 - [I. Palindrome | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=pP47diCpimM)
 - [J. Primes from 1 to N | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=FGQnMTOfWCI)
 - [H. One Prime | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=1yPnKTHiuiY)
 - [G. Factorial | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=oqhiPWVj_Tw)
-- [F. Multiplication Table | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=fAS8pd_A6FQ)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
