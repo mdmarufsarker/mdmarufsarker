@@ -35,11 +35,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [A. Make it White | Codeforces Round 923 &lpar;Div. 3&rpar;](https://www.youtube.com/watch?v=o1xPs8-W0n4)
 - [K. Divisors | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=Y63sqYKFlxI)
 - [I. Palindrome | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=pP47diCpimM)
 - [J. Primes from 1 to N | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=FGQnMTOfWCI)
 - [H. One Prime | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=1yPnKTHiuiY)
-- [G. Factorial | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=oqhiPWVj_Tw)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
