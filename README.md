@@ -35,11 +35,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [A. Thorns and Coins | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=PvOsNdHuqe4)
+- [A. Odd One Out | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=4qgCx04K4h8)
+- [A. Maximise The Score | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=0X5IlgNd46U)
 - [A. Make it White | Codeforces Round 923 &lpar;Div. 3&rpar;](https://www.youtube.com/watch?v=o1xPs8-W0n4)
 - [K. Divisors | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=Y63sqYKFlxI)
-- [I. Palindrome | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=pP47diCpimM)
-- [J. Primes from 1 to N | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=FGQnMTOfWCI)
-- [H. One Prime | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=1yPnKTHiuiY)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
