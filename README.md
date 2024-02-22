@@ -35,10 +35,10 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [A. Odd One Out | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=4qgCx04K4h8)
 - [B. Vlad and Shapes | Codeforces Round 928 &lpar;Div. 4&rpar;](https://www.youtube.com/watch?v=Cz2oL4MQBmQ)
 - [A. Vlad and the Best of Five | Codeforces Round 928 &lpar;Div. 4&rpar;](https://www.youtube.com/watch?v=eMZONVB76JM)
 - [A. Thorns and Coins | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=PvOsNdHuqe4)
-- [A. Odd One Out | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=4qgCx04K4h8)
 - [A. Maximise The Score | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=0X5IlgNd46U)
 <!-- YOUTUBE:END -->
 
