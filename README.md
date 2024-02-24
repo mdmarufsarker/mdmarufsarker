@@ -35,11 +35,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [A. Moving Chips | Educational Codeforces Round 162 &lpar;Rated for Div. 2&rpar;](https://www.youtube.com/watch?v=iyxq1xVuvhc)
 - [A. Odd One Out | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=4qgCx04K4h8)
 - [B. Vlad and Shapes | Codeforces Round 928 &lpar;Div. 4&rpar;](https://www.youtube.com/watch?v=Cz2oL4MQBmQ)
 - [A. Vlad and the Best of Five | Codeforces Round 928 &lpar;Div. 4&rpar;](https://www.youtube.com/watch?v=eMZONVB76JM)
 - [A. Thorns and Coins | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=PvOsNdHuqe4)
-- [A. Maximise The Score | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=0X5IlgNd46U)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
