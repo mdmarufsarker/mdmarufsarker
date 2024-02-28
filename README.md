@@ -35,11 +35,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [A. Turtle Puzzle: Rearrange and Negate | Codeforces Round 929 &lpar;Div. 3&rpar;](https://www.youtube.com/watch?v=EzipFM9rTcU)
+- [1045. Triangle Types | Beecrowd Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=vtf2aUVjuus)
 - [1035 Selection Test 1 | Beecrowd Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=PYLILCmPrRk)
 - [A. Moving Chips | Educational Codeforces Round 162 &lpar;Rated for Div. 2&rpar;](https://www.youtube.com/watch?v=iyxq1xVuvhc)
 - [A. Odd One Out | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=4qgCx04K4h8)
-- [B. Vlad and Shapes | Codeforces Round 928 &lpar;Div. 4&rpar;](https://www.youtube.com/watch?v=Cz2oL4MQBmQ)
-- [A. Vlad and the Best of Five | Codeforces Round 928 &lpar;Div. 4&rpar;](https://www.youtube.com/watch?v=eMZONVB76JM)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
