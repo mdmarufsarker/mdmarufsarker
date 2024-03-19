@@ -35,11 +35,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [1052. Month | Beecrowd Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=lJRUPF-_0xo)
 - [1050. DDD | Beecrowd Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=x8VXxqLKGcA)
 - [1049. Animal | Beecrowd Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=Vvb7ShKZtDw)
 - [1048. Salary Increase | Beecrowd Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=FFD-G-IaCVI)
 - [A. Turtle Puzzle: Rearrange and Negate | Codeforces Round 929 &lpar;Div. 3&rpar;](https://www.youtube.com/watch?v=EzipFM9rTcU)
-- [1045. Triangle Types | Beecrowd Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=vtf2aUVjuus)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
