@@ -35,11 +35,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [1064. Positives and Average | Beecrowd Problem Solving Bangla Tutorials | Competitive Programming](https://www.youtube.com/watch?v=11tasqLDqIw)
 - [1060. Positive Numbers | Beecrowd Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=QZDL1Zkofps)
 - [1059. Even Numbers | Beecrowd Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=Nd0O5V3VyWo)
 - [1052. Month | Beecrowd Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=lJRUPF-_0xo)
 - [1050. DDD | Beecrowd Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=x8VXxqLKGcA)
-- [1049. Animal | Beecrowd Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=Vvb7ShKZtDw)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
