@@ -35,11 +35,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [1073 - Even Square | Beecrowd Problem Solving Bangla Tutorials| Competitive Programming](https://www.youtube.com/watch?v=C9TqIkmDIA0)
 - [1070 - Six Odd Numbers | Beecrowd Problem Solving Bangla Tutorials| Competitive Programming](https://www.youtube.com/watch?v=K4P8NyXMUHA)
 - [1067 - Odd Numbers | Beecrowd Problem Solving Bangla Tutorials| Competitive Programming](https://www.youtube.com/watch?v=yK35qCCE9gk)
 - [1066. Even,Odd,Positive and Negative | Beecrowd Problem Solving | Competitive Programming](https://www.youtube.com/watch?v=IUuytLWY-Ks)
 - [1065. Even Between Five Numbers | Beecrowd Problem Solving Bangla Tutorials| Competitive Programming](https://www.youtube.com/watch?v=wklzwS5nA-0)
-- [1064. Positives and Average | Beecrowd Problem Solving Bangla Tutorials | Competitive Programming](https://www.youtube.com/watch?v=11tasqLDqIw)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
