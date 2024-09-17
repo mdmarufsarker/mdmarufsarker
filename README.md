@@ -35,11 +35,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [1101 - Sequence of Numbers and Sum | Beecrowd Problem Solving | Competitive Programming](https://www.youtube.com/watch?v=6ozXmtforHA)
 - [A. Sakurako&#39;s Exam - Codeforces Round 970 &lpar;Div. 3&rpar; | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=KrbYzNJjZt0)
 - [A - Minimize! - Codeforces Round 971 &lpar;Div. 4&rpar; | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=Fy71qohcDQw)
 - [B - osu!mania - Codeforces Round 971 &lpar;Div. 4&rpar; | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=zQLGC5B3zIs)
 - [1073 - Even Square | Beecrowd Problem Solving Bangla Tutorials| Competitive Programming](https://www.youtube.com/watch?v=C9TqIkmDIA0)
-- [1070 - Six Odd Numbers | Beecrowd Problem Solving Bangla Tutorials| Competitive Programming](https://www.youtube.com/watch?v=K4P8NyXMUHA)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
