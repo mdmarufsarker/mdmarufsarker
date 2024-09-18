@@ -35,11 +35,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [Web Programming Lab 2 | CSE 302 | Green University](https://www.youtube.com/watch?v=nUz4jvXCCXY)
+- [Web Programming Lab 1 | CSE 302 | Green University](https://www.youtube.com/watch?v=qXlVL7JOYnw)
+- [1114 - Fixed Password | Beecrowd Problem Solving Bangla Tutorial | Competitive Programming](https://www.youtube.com/watch?v=BaJpTMMtK6I)
 - [1101 - Sequence of Numbers and Sum | Beecrowd Problem Solving | Competitive Programming](https://www.youtube.com/watch?v=6ozXmtforHA)
 - [A. Sakurako&#39;s Exam - Codeforces Round 970 &lpar;Div. 3&rpar; | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=KrbYzNJjZt0)
-- [A - Minimize! - Codeforces Round 971 &lpar;Div. 4&rpar; | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=Fy71qohcDQw)
-- [B - osu!mania - Codeforces Round 971 &lpar;Div. 4&rpar; | Codeforces Problem Solving Bangla Tutorials](https://www.youtube.com/watch?v=zQLGC5B3zIs)
-- [1073 - Even Square | Beecrowd Problem Solving Bangla Tutorials| Competitive Programming](https://www.youtube.com/watch?v=C9TqIkmDIA0)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
