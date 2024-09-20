@@ -35,11 +35,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [SMTP Protocol implementation with FTP Server using Cisco Packet Tracker](https://www.youtube.com/watch?v=ppPo1zGYG7Q)
+- [1144 - Logical Sequence | Beecrowd Problem Solving Bangla Tutorial | Competitive Programming](https://www.youtube.com/watch?v=48MD23kqY5k)
 - [1143 - Squared and Cubic | Beecrowd Problem Solving Bangla Tutorial | Competitive Programming](https://www.youtube.com/watch?v=IuHCyxZIVtU)
 - [Web Programming Lab 2 | CSE 302 | Green University](https://www.youtube.com/watch?v=nUz4jvXCCXY)
 - [Web Programming Lab 1 | CSE 302 | Green University](https://www.youtube.com/watch?v=qXlVL7JOYnw)
-- [1114 - Fixed Password | Beecrowd Problem Solving Bangla Tutorial | Competitive Programming](https://www.youtube.com/watch?v=BaJpTMMtK6I)
-- [1101 - Sequence of Numbers and Sum | Beecrowd Problem Solving | Competitive Programming](https://www.youtube.com/watch?v=6ozXmtforHA)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
