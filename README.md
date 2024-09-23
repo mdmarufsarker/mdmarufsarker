@@ -35,11 +35,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [1168 - LED | Beecrowd Problem Solving Bangla Tutorials | Competitive Programming](https://www.youtube.com/watch?v=UoI4wo5_f0Y)
 - [1165 - Prime Number | Beecrowd Problem Solving Bangla Tutorial | Competitive Programming](https://www.youtube.com/watch?v=Q4-n28dlMZ8)
 - [Web Programming Lab 3 | CSE 302 | Green University](https://www.youtube.com/watch?v=TjOWj9f5wgM)
 - [1151 - Easy Fibonacci | Beecrowd Problem Solving Bangla Tutorials | Competitive Programming](https://www.youtube.com/watch?v=FairkSLHaJY)
 - [SMTP Protocol implementation with FTP Server using Cisco Packet Tracker](https://www.youtube.com/watch?v=ppPo1zGYG7Q)
-- [1144 - Logical Sequence | Beecrowd Problem Solving Bangla Tutorial | Competitive Programming](https://www.youtube.com/watch?v=48MD23kqY5k)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
