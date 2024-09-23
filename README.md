@@ -45,10 +45,10 @@
 ### 🎬 Latest  Blogs posts ~
 
 <!-- BLOG-POST-LIST:START -->
+- [Project Ideas Don’t Have to Be Unique: Here’s Why](https://dev.to/mdmarufsarker/project-ideas-dont-have-to-be-unique-heres-why-4fkk)
 - [পর্দার আড়ালে কী চলে? অপারেটিং সিস্টেমের রহস্য উন্মোচন](https://dev.to/mdmarufsarker/prdaar-aaddaale-kii-cle-apaarettin-sisttemer-rhsy-unmocn-203o)
 - [Compiled Language vs Interpreted Language](https://dev.to/mdmarufsarker/compiled-language-vs-interpreted-language-2o4c)
 - [How to build and run a C Program](https://dev.to/mdmarufsarker/si-prograamin-er-haatekhddi-3c3)
-- [Introduction to C Programming Language](https://dev.to/mdmarufsarker/si-prograamin-er-haatekhddi-4bdh)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
