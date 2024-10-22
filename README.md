@@ -35,11 +35,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [Web Programming Lab 6 &lpar;JavaScript&rpar; | CSE 302 | Green University](https://www.youtube.com/watch?v=LQ6CrgtWDqU)
 - [Web Programming Lab 5 | CSE 302 | Green University](https://www.youtube.com/watch?v=USQaSFi-tng)
 - [Web Programming Lab Report 1 - CV Page Design | CSE 302 | Green University](https://www.youtube.com/watch?v=ZqFd6jItcj0)
 - [Web Programming Lab 4 | CSE 302 | Green University](https://www.youtube.com/watch?v=BN0m33n2z5A)
 - [Hybrid Topology using Cisco Packet Tracer | Network Topology | Computer Networking](https://www.youtube.com/watch?v=1ZMkt1pUotU)
-- [Mesh Topology using Cisco Packet Tracer | Network Topology | Computer Networking](https://www.youtube.com/watch?v=oVThUAyZ55c)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
