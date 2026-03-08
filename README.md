@@ -35,11 +35,11 @@
 ### 🎬 Latest YouTube Videos ~
 
 <!-- YOUTUBE:START -->
+- [Add Two Numbers | Linked List Explained | NeetCode 150 | C++ Solution](https://www.youtube.com/watch?v=K-MnRaRaIqE)
+- [NeetCode 150 – Two Sum | Optimal HashMap Solution Explained &lpar;C++&rpar;](https://www.youtube.com/watch?v=Z50idYRU0pE)
 - [Web Programming Lab 8 Part 2 - PHP CLP Tasks Solution | CSE 302 | Green University](https://www.youtube.com/watch?v=lpfyjagRQEY)
 - [Web Programming Lab 8 Part 1 - PHP Basics | CSE 302 | Green University](https://www.youtube.com/watch?v=c9BYjvydFW0)
 - [Web Programming Lab 7 CLP + Lab Report &lpar;JavaScript&rpar; | CSE 302 | Green University](https://www.youtube.com/watch?v=H4E8pJe8PMY)
-- [Web Programming Lab 6 &lpar;JavaScript&rpar; | CSE 302 | Green University](https://www.youtube.com/watch?v=LQ6CrgtWDqU)
-- [Web Programming Lab 5 | CSE 302 | Green University](https://www.youtube.com/watch?v=USQaSFi-tng)
 <!-- YOUTUBE:END -->
 
 ### 🎬 Latest  Blogs posts ~
